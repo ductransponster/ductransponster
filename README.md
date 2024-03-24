@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+Hi, my name is Duc Tran 👋 
+</h1>
 
-<!--
-**ductransponster/ductransponster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I am a data analyst professional focused on helping my company harness the potential of data. <br> 
+  I work to find ways to grow and improve by accessing the right data and turning raw data into actionable insights.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ductransponster">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/>
+  </a>
+  <a href="mailto:ductransponster@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"/>        
+  </a>
+  <a href="https://github.com/ductransponster">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"/>        
+  </a>
+</p>
